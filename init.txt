@@ -1,0 +1,4 @@
+call activate
+call conda activate jobfree
+
+call pip install -r .\web-server\requirements1.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/

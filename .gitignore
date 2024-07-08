@@ -19,4 +19,4 @@ spiderProject/
 
 docker-compose.yml
 
-web-ui/node_modules
+#web-ui/node_modules
